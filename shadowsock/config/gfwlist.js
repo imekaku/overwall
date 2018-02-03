@@ -5,6 +5,14 @@ var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
   "||altrec.com", 
+  "||sublimetext",
+  "||steampowered.com",
+  "||medium.com",
+  "||telegram.org",
+  "||kukuku.cc",
+  "||slack.com",
+  "||lvv2.com",
+  "||mybatis.org",
   "||steampowered.com",
   "||darpa.mil", 
   "||fastpic.ru", 

@@ -2,6 +2,13 @@
 ! See https://adblockplus.org/en/filter-cheatsheet
 @@||shimo.im
 ||livecoding.tv
+||kukuku.cc
+||sublimetext
+||steampowered.com
+||medium.com
+||slack.com
+||lvv2.com
+||telegram.org
 ||caniuse.com
 @@||chinesemooc.org
 @@||ninghao.net
